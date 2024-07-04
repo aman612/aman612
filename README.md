@@ -1,4 +1,10 @@
-### Hi there 👋
+<div align="center">
+    <h1> Hi there, I'm Aman 👋</h1>
+</div>
+
+<p align="center">
+<a href="https://github.com/aman612"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineer;Python+Developer&center=true&width=500&height=50" alt="Typing SVG" /></a>
+</p>
 
 <!--
 **aman612/aman612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
